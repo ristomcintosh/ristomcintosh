@@ -5,6 +5,10 @@
 - **Frameworks & Libraries**: React, Next.js, Node.js
 - **Tools & Platforms**: GitHub, Google Cloud Platform, Azure
 
+## Key Project ⭐️
+[**Memcards**](https://github.com/ristomcintosh/memcards): A minimally designed flashcard app, built with Next.js.
+
+
 ## Professional Goals 🚀
 - **Continuous Learning**: Committed to continually improving my technical skills and staying up-to-date with emerging technologies 📚
 - **Career Development**: Focused on advancing my career in software engineering, by working on interesting and challenging projects that fully leverage my skill set, while continuing to develop and expand my expertise.
