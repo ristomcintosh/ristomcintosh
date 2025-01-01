@@ -1,4 +1,4 @@
-👋 Hi hi, I'm Risto Mcintosh, a software engineer based in Chicago, IL
+👋 Hi hi, I'm Risto Mcintosh, a software engineer based in New York
 
 ## Techinical Skills 🛠️
 - **Languages**: TypeScript, JavaScript, Go
