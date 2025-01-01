@@ -1,9 +1,8 @@
 👋 Hi hi, I'm Risto Mcintosh, a software engineer based in New York
 
 ## Techinical Skills 🛠️
-- **Languages**: TypeScript, JavaScript, Go
-- **Frameworks & Libraries**: React, Next.js, Node.js
-- **Tools & Platforms**: GitHub, Google Cloud Platform, Azure
+- **Languages**: TypeScript/JavaScript, Go
+- **Frameworks & Libraries**: React, Next.js
 
 ## Key Project ⭐️
 [**Memcards**](https://github.com/ristomcintosh/memcards): A minimally designed flashcard app, built with Next.js.
